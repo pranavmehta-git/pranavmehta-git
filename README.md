@@ -1,4 +1,4 @@
-Hi, I'm Pranav Mehta
+# 👋 Hi, I'm Pranav Mehta
 
 I’m an MPA student at Columbia SIPA focusing on data-driven policy, financial systems, and how real-world institutions actually work. I use R, Python, and Tableau to turn messy public data into clear, reproducible insights.
 
@@ -9,3 +9,18 @@ I also write: sometimes analysis, sometimes humor—often about institutions, te
 Outside policy and code: I run, read history, obsess over good dashboards, and occasionally climb mountains with spotty phone service.
 
 If you want to talk about data, digital policy, AI governance, or why R Markdown is superior to Google Docs, I’m always happy to chat!
+
+# 🔧 What I Work With
+
+- R (tidyverse, sf, modelsummary, tidycensus)
+- Python (pandas, geopandas, sklearn)
+- Tableau Public
+- Reproducible workflows (RMarkdown, Quarto, GitHub)
+
+# 🔍 Areas I Care About
+
+- Data equity in public systems
+- Financial inclusion & digital public infrastructure
+- AI governance & systemic risk
+- Urban data and regulatory design
+- Clear, honest storytelling about complex systems
