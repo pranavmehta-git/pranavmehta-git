@@ -1,6 +1,6 @@
 Hi, I'm Pranav Mehta
 
-I’m an MPA student at Columbia SIPA focusing on data-driven policy, financial systems, and how real-world institutions actually work. I use R, Python, and Tableau to turn messy public data into clear, reproducible insights—mostly in the domains of inspections, equity, digital finance, and urban systems.
+I’m an MPA student at Columbia SIPA focusing on data-driven policy, financial systems, and how real-world institutions actually work. I use R, Python, and Tableau to turn messy public data into clear, reproducible insights.
 
 Before SIPA, I worked on CBDCs, Open Finance, and digital policy at the Central Bank of the UAE, where I learned that systems look orderly from afar and delightfully chaotic up close.
 
